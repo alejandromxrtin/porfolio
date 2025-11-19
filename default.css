@@ -35,7 +35,6 @@ body *{
 h1, h2, h3, h4, h5, h6, strong{
 	color: var(--mainText);
 	font-family: 'Century Gothic';
-	font-weight: 500;
 }
 
 p, li, span, label, input, textarea{
@@ -124,9 +123,8 @@ h6 { font-size: 16px;}
 	background-color: var(--mainColor);
 	border-bottom:1px solid var(--borderColor);
 	overflow:auto;
-	height: 800px;
-	padding: 5px;
-	
+	height: 830px;
+	padding-bottom: 10px;	
 }
 
 .s2{
@@ -163,6 +161,7 @@ h6 { font-size: 16px;}
 	background-color: var(--secondaryColor);
 	border:1px solid var(--borderColor);
 	border-radius:5px 5px 0 0;
+	width: 1100px;
 
 
 	-webkit-box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
