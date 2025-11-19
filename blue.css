@@ -1,0 +1,27 @@
+:root{
+	--mainColor:#2B2B2B;
+	--secondaryColor:#262626;
+
+	--borderColor:##323333;
+
+	--mainText:#fff;
+	--secondaryText:#eeeeee;
+
+	--themeDotBorder:#FFF;
+
+	--previewBg:2B2B2B;
+	--previewShadow:#1F1F1F;
+
+
+	--buttonColor:#17a2b8;
+
+}
+.hamburger .bar {
+    background-color: var(--hamburger-color);
+}
+
+strong {
+    color: var(--hamburger-color);
+	color: var(--strong-text-color);
+    font-weight: bold;
+}
